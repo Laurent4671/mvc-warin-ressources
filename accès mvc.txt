@@ -1,0 +1,3 @@
+pseudo:   admin@admin.be
+
+pass:   admin
