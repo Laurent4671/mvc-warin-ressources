@@ -21,9 +21,6 @@ if(file_exists("controler/".$page.".php")){
     exit;
 }
 
-
-
-
 $verif_login = array("login");
 
 if(in_array($page, $verif_login)){
